@@ -1,0 +1,30 @@
+{
+  "name": "nr8-sc-backend",
+  "version": "1.0.0",
+  "description": "near8 smart contract backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NEAR8-Inc/NR8-SC-Backend.git"
+  },
+  "keywords": [
+    "Near8",
+    "Smart",
+    "Contract",
+    "Backend"
+  ],
+  "author": "dungexn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NEAR8-Inc/NR8-SC-Backend/issues"
+  },
+  "homepage": "https://github.com/NEAR8-Inc/NR8-SC-Backend#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.1",
+    "express": "^4.19.2"
+  }
+}
